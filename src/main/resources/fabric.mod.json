@@ -17,9 +17,6 @@
 	"entrypoints": {
 		"main": [
 			"com.raindelay.RainDelay"
-		],
-		"modmenu": [
-			"com.raindelay.RainDelayModMenu"
 		]
 	},
 	"mixins": [
